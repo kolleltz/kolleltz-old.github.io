@@ -4,9 +4,9 @@ show_meta: false
 title: "Rosh Kollel"
 subheadline: "HaRav Chaim Mendelson"
 teaser: "Bio of the Rosh Kollel"
-image:
-    title: 9S8A7875.JPG
-    background-color: "#fabb00"
+header:
+    image: 9S8A7875.JPG
+    background-color: "#304558"
 permalink: "/rosh-kollel/"
 ---
 American born and raised, Rabbi Chaim Mendelson, "The Business Rabbi", is a dynamic public speaker and educator, with many years of teaching experience. 
