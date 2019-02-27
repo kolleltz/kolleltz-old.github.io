@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Rosh Kollel"
-    url: "/tbd/"
+    url: "/rosh-kollel/"
 
 - title: "Templates"
   url: "/design/"
