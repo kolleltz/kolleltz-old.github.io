@@ -2,9 +2,16 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Donate
   url: "/getting-started/"
   side: left
+  
+- title: About
+  url: "/getting-started/"
+  side: left
+  dropdown:
+  - title: "Rosh Kollel"
+    url: "/tbd/"
 
 - title: "Templates"
   url: "/design/"
