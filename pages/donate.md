@@ -18,6 +18,6 @@ U.S. Tax ID # 11-3051057
 
 Checks can be mailed to:
 
-*American Friends of Kollel Toras Zeraim*
-*960 46th Street*
+*American Friends of Kollel Toras Zeraim*<br>
+*960 46th Street*<br>
 *Brooklyn, NY 11219*
