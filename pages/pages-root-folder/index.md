@@ -15,12 +15,12 @@ widget1:
 widget2:
   title: "We welcome your inquiries"
   url: '/contact/'
-  image: Rabbi_Chaim_Mendelson_sm.jpg
+  image: talmud.jpg
   text: 'We welcome inquiries from the public with questions pertaining to personal and business ethics, with a special emphasis on the integration of "business halacha" as it pertains to the modern business world.  We strive to provide clear answers to the issues that you may confront.'
 widget3:
   title: "Audio & Video"
   url: '/media/'
-  image: widget-github-303x182.jpg
+  image: Rabbi_Chaim_Mendelson_sm.jpg
   text: 'Audio and Video'
 #
 # Use the call for action to show a button on the frontpage
