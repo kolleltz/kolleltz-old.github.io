@@ -3,7 +3,7 @@
   side: left
 
 - title: About
-  url: "/getting-started/"
+  url: "/about/"
   side: left
   dropdown:
   - title: "Rosh Kollel"
