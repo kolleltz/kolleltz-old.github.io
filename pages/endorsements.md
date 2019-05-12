@@ -1,8 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Endorsements"
-subheadline: "המלצות"
+title: "Endorsements - המלצות"
 header: no
 permalink: "/endorsements/"
 ---
