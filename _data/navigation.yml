@@ -2,10 +2,7 @@
   url: "/"
   side: left
 
-- title: Donate
-  url: "/getting-started/"
-  side: left
-  
+
 - title: About
   url: "/getting-started/"
   side: left
@@ -61,14 +58,6 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
@@ -80,6 +69,11 @@
 - title: "Search"
   url: "/search/"
   side: right
+  
+- title: Donate
+url: "/getting-started/"
+side: left
+  
 
 - title: "Contact"
   url: "/contact/"
