@@ -6,13 +6,15 @@ subheadline: "המלצות"
 header: no
 permalink: "/endorsements/"
 ---
-[Badatz](#badatz)
-[Mir](#mir)
+* [Badatz](#badatz)
+* [Mir](#mir)
+* [R' Yaakov Hillel](#hillel)
+
 ## <a id="badatz"></a>Badatz
 ![Badatz](/images/Badatz.jpg)
 ## <a id="mir"></a>Mir Yeshiva
 ![Mir](/images/Mir.jpg)
-## Rav Yaakov Hillel
+## <a id="hillel"></a>Rav Yaakov Hillel
 ![Rav Hillel](/images/RavHillel.jpg)
 ## R' Chaim Scheinberg
 ![R' Chaim Scheinberg](/images/RavScheinberg.jpg)
