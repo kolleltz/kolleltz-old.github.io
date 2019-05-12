@@ -6,9 +6,9 @@ header: no
 permalink: "/endorsements/"
 ---
 * [Badatz](#badatz)
-* [Mir](#mir)
+* [R' Shmuel Berenbaum](#mir)
 * [R' Yaakov Hillel](#hillel)
-* [R' Chaim Scheinberg](#scheinberg)
+* [R' Chaim Pinchas Scheinberg & R' Yosef Shalom Elyashiv](#scheinberg)
 * [R' Yaakov Schwartzman](#schwartzman)
 * [R' Tuvia Weiss](#weiss)
 * [R' Schneebalg](#schneebalg)
@@ -18,7 +18,7 @@ permalink: "/endorsements/"
 ![Badatz](/images/Badatz.jpg)
 
 <a id="mir"></a>
-## Mir Yeshiva
+## R' Shmuel Berenbaum
 ![Mir](/images/Mir.jpg)
 
 <a id="hillel"></a>
@@ -26,7 +26,7 @@ permalink: "/endorsements/"
 ![Rav Hillel](/images/RavHillel.jpg)
 
 <a id="scheinberg"></a>
-## R' Chaim Scheinberg
+## R' Chaim Pinchas Scheinberg & R' Yosef Shalom Elyashiv
 ![R' Chaim Scheinberg](/images/RavScheinberg.jpg)
 
 <a id="schwartzman"></a>
