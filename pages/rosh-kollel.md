@@ -6,7 +6,7 @@ subheadline: "HaRav Chaim Mendelson"
 teaser: "Bio of the Rosh Kollel"
 header: no
 image:
-    title: 9S8A7875.JPG
+    title: 9S8A7875-medium.JPG
     background-color: "#304558"
 permalink: "/rosh-kollel/"
 ---
