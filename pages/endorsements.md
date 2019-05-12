@@ -9,7 +9,7 @@ permalink: "/endorsements/"
 * [Mir](#mir)
 * [R' Yaakov Hillel](#hillel)
 * [R' Chaim Scheinberg](#scheinberg)
-* [R' Yaakov Scwartzman](#schwartzman)
+* [R' Yaakov Schwartzman](#schwartzman)
 * [R' Tuvia Weiss](#weiss)
 * [R' Schneebalg](#schneebalg)
 
