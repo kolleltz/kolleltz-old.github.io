@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Rosh Kollel"
+title: "Rosh Kollel - ראש כולל"
 subheadline: "HaRav Chaim Mendelson"
 teaser: "Bio of the Rosh Kollel"
 header: no
