@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Donate"
-header: yes
+header: no
 image:
     title: 9S8A7864.JPG
     background-color: "#304558"
