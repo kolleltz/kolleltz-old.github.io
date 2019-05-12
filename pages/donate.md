@@ -12,4 +12,11 @@ As of May 2019, we are in the process of setting up a PayPal link and hope to ha
 
 In the meanwhile, please write checks to:  _**American Friends of Kollel Toras Zeraim**_
 
-*American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit.   Donations are tax-deductible.
+*American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit.   Donations are tax-deductible.  U.S. Tax ID # 11-3051057
+
+
+Checks can be mailed to:
+
+American Friends of Kollel Toras Zeraim
+960 46th Street
+Brooklyn, NY 11219
