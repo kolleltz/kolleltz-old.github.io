@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: 9S8A7764.JPG
 widget1:
-  title: "Blog & Portfolio"
-  url: 'https://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Articles & Resources"
+  url: '/articles/'
+  image: 9S8A7864-thumb.JPG
+  text: 'Here is where we will put articles about different relevant topics'
 widget2:
   title: "Why use this theme?"
   url: 'https://phlow.github.io/feeling-responsive/info/'
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /donate/
+  text: Donate to support the Kollel
   style: alert
 permalink: /index.html
 #
