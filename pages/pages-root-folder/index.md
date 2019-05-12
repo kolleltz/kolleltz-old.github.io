@@ -9,7 +9,7 @@ header:
   image_fullwidth: 9S8A7805-as-header.jpg
 widget1:
   title: "Articles & Resources"
-  url: '/articles/'
+  url: '/blog/'
   image: 9S8A7864-thumb.JPG
   text: 'Here is where we will put articles about different relevant topics'
 widget2:
