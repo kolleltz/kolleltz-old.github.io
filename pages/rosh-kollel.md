@@ -15,3 +15,5 @@ American born and raised, Rabbi Chaim Mendelson, "The Business Rabbi", is a dyna
 He served with distinction on the faculty of [Machon Shlomo Torah Institute, Yerushalayim](https://machonshlomo.org/), for twelve years, where he enabled young men deprived of a Torah education to access their rich heritage.
 
 He then went on to found "Kollel Toras Zeraim - Institute for Business Halacha”, which for the past 16 years has devoted itself to the research and advancement of "business halacha", as it pertains to the modern world, with a special emphasis on ethical issues confronting the businessperson.
+
+[Rabbi Mendelson on LinkedIn](https://www.linkedin.com/in/rabbi-chaim-mendelson-528919/)
