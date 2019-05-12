@@ -12,6 +12,8 @@
   dropdown:
   - title: "Rosh Kollel"
     url: "/rosh-kollel/"
+  - title: "Endorsements"
+    url: "/endorsements/"
 
 - title: "Templates"
   url: "/design/"
