@@ -17,6 +17,8 @@ In the meanwhile, please write checks to:  _**American Friends of Kollel Toras Z
 
 Checks can be mailed to:
 
-American Friends of Kollel Toras Zeraim
-960 46th Street
-Brooklyn, NY 11219
+*American Friends of Kollel Toras Zeraim*
+
+*960 46th Street*
+
+*Brooklyn, NY 11219*
