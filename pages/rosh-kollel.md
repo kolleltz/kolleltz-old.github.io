@@ -16,4 +16,4 @@ He served with distinction on the faculty of [Machon Shlomo Torah Institute, Yer
 
 He then went on to found "Kollel Toras Zeraim - Institute for Business Halacha”, which for the past 16 years has devoted itself to the research and advancement of "business halacha", as it pertains to the modern world, with a special emphasis on ethical issues confronting the businessperson.
 
-[Rabbi Mendelson on LinkedIn](https://www.linkedin.com/in/rabbi-chaim-mendelson-528919/)
+[Connect with Rabbi Mendelson on LinkedIn](https://www.linkedin.com/in/rabbi-chaim-mendelson-528919/)
