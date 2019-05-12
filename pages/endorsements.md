@@ -9,13 +9,18 @@ permalink: "/endorsements/"
 * [Badatz](#badatz)
 * [Mir](#mir)
 * [R' Yaakov Hillel](#hillel)
+* [R' Chaim Scheinberg](#scheinberg)
 
-## <a id="badatz"></a>Badatz
+<a id="badatz"></a>
+## Badatz
 ![Badatz](/images/Badatz.jpg)
-## <a id="mir"></a>Mir Yeshiva
+<a id="mir"></a>
+## Mir Yeshiva
 ![Mir](/images/Mir.jpg)
-## <a id="hillel"></a>Rav Yaakov Hillel
+<a id="hillel"></a>
+## Rav Yaakov Hillel
 ![Rav Hillel](/images/RavHillel.jpg)
+<a id="scheinberg"></a>
 ## R' Chaim Scheinberg
 ![R' Chaim Scheinberg](/images/RavScheinberg.jpg)
 ## R' Yaakov Schwartzman
