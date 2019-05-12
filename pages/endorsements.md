@@ -6,17 +6,19 @@ subheadline: "המלצות"
 header: no
 permalink: "/endorsements/"
 ---
-# Badatz
+[Badatz](#badatz)
+[Mir](#mir)
+## <a id="badatz"></a>Badatz
 ![Badatz](/images/Badatz.jpg)
-# Mir Yeshiva
+## <a id="mir"></a>Mir Yeshiva
 ![Mir](/images/Mir.jpg)
-# Rav Yaakov Hillel
+## Rav Yaakov Hillel
 ![Rav Hillel](/images/RavHillel.jpg)
-# R' Chaim Scheinberg
+## R' Chaim Scheinberg
 ![R' Chaim Scheinberg](/images/RavScheinberg.jpg)
-# R' Yaakov Schwartzman
+## R' Yaakov Schwartzman
 ![R' Yaakov Schwartzman](/images/RavSchwartzman.jpg)
-# R' Tuvia Weiss
+## R' Tuvia Weiss
 ![R' Weiss](/images/RavWeiss.jpg)
-# R' Schneebalg
+## R' Schneebalg
 ![R' Schneebalg](/images/RavSchneebalg.jpg)
