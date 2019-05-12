@@ -13,10 +13,9 @@ widget1:
   image: 9S8A7864-thumb.JPG
   text: 'Here is where we will put articles about different relevant topics'
 widget2:
-  title: "Why use this theme?"
-  url: 'https://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "We welcome your inquiries"
+  url: '/contact/'
+  text: 'We welcome inquiries from the public with questions pertaining to personal and business ethics, with a special emphasis on the integration of "business halacha" as it pertains to the modern business world.  We strive to provide clear answers to the issues that you may confront.'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
