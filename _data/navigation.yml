@@ -16,7 +16,11 @@
 - title: Articles
   url: "/articles/"
   side: left
- 
+
+- title: Media
+  url: "/media/"
+  side: left
+
 - title: Donate
   url: "/donate/"
   side: left
