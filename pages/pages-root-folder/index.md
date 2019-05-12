@@ -16,7 +16,7 @@ widget2:
   title: "We welcome your inquiries"
   url: '/contact/'
   image: talmud2.jpg
-  text: 'We welcome inquiries from the public with questions pertaining to personal and business ethics, and all areas of Jewish business law.'
+  text: 'We welcome inquiries from the public regarding all areas of Jewish business law.'
 widget3:
   title: "Audio & Video"
   url: '/media/'
