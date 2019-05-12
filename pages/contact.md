@@ -10,3 +10,9 @@ If you need a fabulous contact form for your website, I suggest you use [Wufoo][
 
 
  [1]: http://www.wufoo.com/
+ 
+<form method="POST" action="https://formspree.io/dan.kerchner@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Test Message"></textarea>
+  <button type="submit">Send Test</button>
+</form>
