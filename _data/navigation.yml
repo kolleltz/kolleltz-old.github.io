@@ -2,7 +2,6 @@
   url: "/"
   side: left
 
-
 - title: About
   url: "/getting-started/"
   side: left
@@ -71,10 +70,9 @@
   side: right
   
 - title: Donate
-url: "/getting-started/"
-side: left
+  url: "/getting-started/"
+  side: left
   
-
 - title: "Contact"
   url: "/contact/"
   side: right
