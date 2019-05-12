@@ -1,3 +1,18 @@
+---
+layout: page
+subheadline: Littering
+title:  "Littering in Public Areas"
+breadcrumb: true
+categories:
+    - design
+tags:
+    - blog
+    - content
+    - post
+    - post format
+author: kolleltz
+---
+
 ## Question:
 What is the perspective of Jewish law on littering in public areas?
 
