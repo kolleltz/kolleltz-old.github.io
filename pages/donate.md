@@ -16,11 +16,8 @@ In the meanwhile, please write checks to:  _**American Friends of Kollel Toras Z
 
 U.S. Tax ID # 11-3051057
 
-
 Checks can be mailed to:
 
 *American Friends of Kollel Toras Zeraim*
-
 *960 46th Street*
-
 *Brooklyn, NY 11219*
