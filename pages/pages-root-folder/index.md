@@ -16,7 +16,7 @@ widget2:
   title: "We welcome your inquiries"
   url: '/contact/'
   image: talmud2.jpg
-  text: 'We welcome inquiries from the public with questions pertaining to personal and business ethics, with a special emphasis on the integration of "business halacha" as it pertains to the modern business world.  We strive to provide clear answers to the issues that you may confront.'
+  text: 'We welcome inquiries from the public with questions pertaining to personal and business ethics, and all areas of Jewish business law.'
 widget3:
   title: "Audio & Video"
   url: '/media/'
