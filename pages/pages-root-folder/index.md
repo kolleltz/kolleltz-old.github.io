@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 9S8A7805.JPG
+  image_fullwidth: 9S8A7864.JPG
 widget1:
   title: "Articles & Resources"
   url: '/articles/'
