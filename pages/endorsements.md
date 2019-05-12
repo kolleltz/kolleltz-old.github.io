@@ -10,5 +10,7 @@ image:
     background-color: "#304558"
 permalink: "/endorsements/"
 ---
-Here is an endosement from the Mir:
+# Rav Yaakov Hillel
+![Rav Hillel](/images/RavHillel.jpg)
+# Mir Yeshiva
 ![Mir](/images/Mir.jpg)
