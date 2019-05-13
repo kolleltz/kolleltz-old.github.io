@@ -4,7 +4,7 @@ show_meta: false
 title: "Donate"
 header: no
 image:
-    title: 9S8A7864.JPG
+    title: 9S8A7784_sm.JPG
     background-color: "#304558"
 permalink: "/donate/"
 ---
