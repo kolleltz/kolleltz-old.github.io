@@ -2,6 +2,7 @@
 layout: page
 subheadline: Littering
 title:  "Littering in Public Areas"
+teaser: "What is the perspective of Jewish law on littering in public areas?"
 breadcrumb: true
 categories:
     - design
