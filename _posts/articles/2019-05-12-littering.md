@@ -5,7 +5,7 @@ title:  "Littering in Public Areas"
 teaser: "What is the perspective of Jewish law on littering in public areas?"
 breadcrumb: true
 categories:
-    - design
+    - halacha
 tags:
     - blog
     - content
@@ -66,8 +66,7 @@ In short, littering the street is an issue of esthetics, while pouring waste
 water into the street causes physical damage to the street.
 
 
-5. However, in support of the idea of not littering in public areas, I propose referring to the Talmud (Chagiga 5a) which interprets the verse (Koheles 12:14) that Hashem will bring a person to judgment on "ALL hidden things". Rav says that this refers to
-someone who kills a louse in front of his friend; who is repulsed by this
+5. However, in support of the idea of not littering in public areas, I propose referring to the Talmud (Chagiga 5a) which interprets the verse (Koheles 12:14) that Hashem will bring a person to judgment on "ALL hidden things". Rav says that this refers to someone who kills a louse in front of his friend; who is repulsed by this
 action. Shmuel says that this refers to someone spitting in front of his
 friend; who is repulsed by this action. Rashi explains, though the
 person doing the action was unaware of the significance of his action, and
