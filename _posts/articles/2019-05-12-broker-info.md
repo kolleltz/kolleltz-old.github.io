@@ -4,7 +4,7 @@ subheadline: Brokers
 title:  "Using a Broker's Information"
 breadcrumb: true
 categories:
-    - design
+    - halacha
 tags:
     - blog
     - content
