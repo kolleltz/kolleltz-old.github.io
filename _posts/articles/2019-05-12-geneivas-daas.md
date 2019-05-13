@@ -1,7 +1,8 @@
 ---
 layout: page
 subheadline: Ghostwriting
-title:  "Geneivas Da’as – Filling Out Application for Someone Else"
+title:  "Geneivas Da’as – Filling Out an Application for Someone Else"
+teaser:  "Am I halachically permitted to help write someone else's application?"
 breadcrumb: true
 categories:
     - design
