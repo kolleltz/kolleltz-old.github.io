@@ -25,6 +25,11 @@
   url: "/donate/"
   side: left
 
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+
 #- title: "Templates"
 #  url: "/design/"
 #  side: left
@@ -79,8 +84,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
