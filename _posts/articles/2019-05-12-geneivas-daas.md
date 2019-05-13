@@ -5,7 +5,7 @@ title:  "Geneivas Da’as – Filling Out an Application for Someone Else"
 teaser:  "Am I halachically permitted to help write someone else's application?"
 breadcrumb: true
 categories:
-    - design
+    - halacha
 tags:
     - blog
     - content
