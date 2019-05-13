@@ -4,7 +4,7 @@ show_meta: false
 title: "Media Files"
 header: no
 image:
-    title: mediaplayer_js-title.jpg
+    title: mediaplayer_js-medium.jpg
     background-color: "#304558"
 permalink: "/media/"
 ---
