@@ -15,5 +15,6 @@ mediaplayer: true
   - [Non-Competition Agreements](https://torahdownloads.com/shiur-1013390.html) - delivered at the Greater Washington Community Kollel
 * Torah Media Atlanta
   - [11-15-12 Billable Hours](http://www.torahmediaatlanta.com/assets/Uploads/Guest/MendelsonChaim/11-15-12%20Billable%20Hours.mp3)
+  <audio src="http://www.torahmediaatlanta.com/assets/Uploads/Guest/MendelsonChaim/11-15-12%20Billable%20Hours.mp3" type="audio/mp3" controls="controls"></audio>
   - [Parshas Shlach and Kedushas Eretz Yisroel 06-10-15](http://www.torahmediaatlanta.com/assets/Uploads/Guest/MendelsonChaim/Parshas%20Shlach%20and%20Kedushas%20Eretz%20Yisroel%2006-10-15.mp3)
 * More to come
