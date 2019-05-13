@@ -10,8 +10,7 @@ permalink: "/media/"
 mediaplayer: true
 ---
 ## Billable Hours
-November 15, 2012
-Torah Media Atlanta
+Torah Media Atlanta // November 15, 2012
 <audio src="http://www.torahmediaatlanta.com/assets/Uploads/Guest/MendelsonChaim/11-15-12%20Billable%20Hours.mp3" type="audio/mp3" controls="controls"></audio>
 
 ## Mekach Ta'us - Sale in Error
@@ -23,6 +22,5 @@ Greater Washington Community Kollel
 <audio src="https://torahdownloads.com/shiur-1013390-download.mp3" type="audio/mp3" controls="controls"></audio>
 
 ## Parshas Shlach and Kedushas Eretz Yisrael
-October 15, 2006
-Torah Media Atlanta
+Torah Media Atlanta // October 15, 2006
 <audio src="http://www.torahmediaatlanta.com/assets/Uploads/Guest/MendelsonChaim/Parshas%20Shlach%20and%20Kedushas%20Eretz%20Yisroel%2006-10-15.mp3" type="audio/mp3" controls="controls"></audio>
