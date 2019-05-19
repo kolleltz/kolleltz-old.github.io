@@ -49,6 +49,9 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    
+plugins:
+  - jekyll-seo-tag
 
 
 #       ____              _             __  _
