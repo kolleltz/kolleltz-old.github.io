@@ -8,7 +8,7 @@ image:
     background-color: "#304558"
 permalink: "/donate/"
 ---
-As of June 2019, we are in the process of setting up a PayPal link and hope to have that available shortly.
+As of December 2020, we are in the process of setting up a PayPal link and hope to have that available shortly.
 
 In the meanwhile, please write checks to:  _**American Friends of Kollel Toras Zeraim**_
 
