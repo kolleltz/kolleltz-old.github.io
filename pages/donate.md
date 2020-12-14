@@ -2,13 +2,14 @@
 layout: page
 show_meta: false
 header: no
+title: Donate
 image:
     title: 9S8A7784_sm.JPG
     background-color: "#304558"
 permalink: "/donate/"
 ---
 
-## Donate with PayPal ##
+### PayPal ###
 
 <div>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
@@ -19,7 +20,7 @@ permalink: "/donate/"
 </form>
 </div>
         
-## Donate by check ##
+### Check ###
 
 Please write checks to:  _**American Friends of Kollel Toras Zeraim**_
 
