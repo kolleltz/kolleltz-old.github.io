@@ -1,7 +1,6 @@
 ---
 layout: page
 show_meta: false
-title:
 header: no
 image:
     title: 9S8A7784_sm.JPG
