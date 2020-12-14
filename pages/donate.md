@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Donate"
+title:
 header: no
 image:
     title: 9S8A7784_sm.JPG
