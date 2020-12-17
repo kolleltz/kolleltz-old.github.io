@@ -9,7 +9,7 @@ image:
 permalink: "/donate/"
 ---
 
-### PayPal ###
+### PayPal & Credit Card ###
 {: .text-center}
 <br>
 <div style="text-align:center">
