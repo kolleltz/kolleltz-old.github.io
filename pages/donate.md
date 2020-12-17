@@ -24,7 +24,7 @@ permalink: "/donate/"
 ### Check ###
 {: .text-center}
 <br>
-Please write checks to:  _**American Friends of Kollel Toras Zeraim**_.  Checks can be mailed to:
+Please write checks to _**American Friends of Kollel Toras Zeraim**_.  Checks can be mailed to:
 {: .text-center}
 
 *American Friends of Kollel Toras Zeraim*<br>
