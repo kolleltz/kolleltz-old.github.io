@@ -24,17 +24,15 @@ permalink: "/donate/"
 ### Check ###
 {: .text-center}
 <br>
-Please write checks to:  _**American Friends of Kollel Toras Zeraim**_
-{: .text-center}
-
-*American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit, U.S. Tax ID # 11-3051057.
-{: .text-center}
-
-Checks can be mailed to:
+Please write checks to:  _**American Friends of Kollel Toras Zeraim**_.  Checks can be mailed to:
 {: .text-center}
 
 *American Friends of Kollel Toras Zeraim*<br>
 *960 46th Street*<br>
 *Brooklyn, NY 11219*
 {: .text-center}
+
+*American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit, U.S. Tax ID # 11-3051057.
+{: .text-center}
+
 
