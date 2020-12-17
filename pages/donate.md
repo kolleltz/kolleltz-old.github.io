@@ -34,7 +34,7 @@ Checks can be mailed to:
 {: .text-center}
 
 *American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit.<br>
-U.S. Tax ID # 11-3051057.
+U.S. Tax ID # 11-3051057
 {: .text-center}
 
 
