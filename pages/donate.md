@@ -11,7 +11,7 @@ permalink: "/donate/"
 
 ### PayPal ###
 {: .text-center}
-
+<br>
 <div style="text-align:center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
             <input type="hidden" name="cmd" value="_s-xclick">
@@ -23,14 +23,11 @@ permalink: "/donate/"
         
 ### Check ###
 {: .text-center}
-
+<br>
 Please write checks to:  _**American Friends of Kollel Toras Zeraim**_
 {: .text-center}
 
-*American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit.
-{: .text-center}
-
-U.S. Tax ID # 11-3051057
+*American Friends of Kollel Toras Zeraim* is a 501(c)(3) registered nonprofit, U.S. Tax ID # 11-3051057.
 {: .text-center}
 
 Checks can be mailed to:
