@@ -8,6 +8,9 @@ image:
     background-color: "#304558"
 permalink: "/donate/"
 ---
+<div style="text-align:center">
+  <h1>Donate</h1>
+</div>
 <div class="row">
   <div class="large-6 columns">
     <div style="text-align:center">
