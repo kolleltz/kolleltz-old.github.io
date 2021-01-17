@@ -16,7 +16,7 @@ permalink: "/donate/"
     <div style="text-align:center">
       <h3>PayPal & Credit Card</h3>
       <br>
-        <a href="https://www.paypal.com/us/fundraiser/charity/1338901" target="_blank"><img src="https://toraszeraim.org/images/button-PayPal-donate.png"></a>
+        <a href="https://www.paypal.com/us/fundraiser/charity/1338901" target="_blank"><img src="https://toraszeraim.org/images/button-PayPal-donate.png"/></a>
     </div>
   </div>
   <div class="large-6 columns">
