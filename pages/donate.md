@@ -16,15 +16,7 @@ permalink: "/donate/"
     <div style="text-align:center">
       <h3>PayPal & Credit Card</h3>
       <br>
-      <form action="https://www.paypal.com/donate" method="post" target="_top">
-        <input type="hidden" name="hosted_button_id" value="ALUB5CRQ2RCK8" />
-        <input type="image" src="https://toraszeraim.org/images/button-PayPal-donate.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-      </form>
-      <br>
-      <img src="/images/PayPalQRCode.png"/>
-      <br>
-      <br>
+        <a href="https://www.paypal.com/us/fundraiser/charity/1338901" target="_blank"><img src="https://toraszeraim.org/images/button-PayPal-donate.png"></a>
     </div>
   </div>
   <div class="large-6 columns">
