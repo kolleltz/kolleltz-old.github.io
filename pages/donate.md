@@ -19,7 +19,7 @@ permalink: "/donate/"
         <a href="https://www.paypal.com/us/fundraiser/charity/1338901" target="_blank" style="text-decoration: none !important; border:0px !important; outline:none; border-width: 0px; outline-width:0px; border-bottom: none;"><img src="https://toraszeraim.org/images/paypal-giving-fund.png"/></a>
       <br>
         100% of donations made through PayPal Giving Fund are given to the registered charity without any deductions or fees to the organization. 
-      <br>
+      <br><br>
         If you prefer not to create a PayPal account, please donate using <a href="https://www.paypal.com/chi-bin/webscr?cmd=_s-xclick&hosted_button_id=ALUB5CRQ2RCK8" target="_blank">this link</a> instead (if using this link, the Kollel will incur a credit card processing fee).
     </div>
   </div>
