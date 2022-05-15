@@ -5,6 +5,7 @@ title: "Endorsements - המלצות"
 header: no
 permalink: "/endorsements/"
 ---
+* [R' Avraham Yaffe-Schlesinger](#schlesinger)
 * [Badatz](#badatz)
 * [R' Shmuel Berenbaum](#mir)
 * [R' Yaakov Hillel](#hillel)
@@ -12,6 +13,10 @@ permalink: "/endorsements/"
 * [R' Yaakov Schwartzman](#schwartzman)
 * [R' Tuvia Weiss](#weiss)
 * [R' Schneebalg](#schneebalg)
+
+<a id="schlesinger"></a>
+## R' Avraham Yaffe-Schlesinger
+![Schlesinger](/images/RavSchlesinger.jpg)
 
 <a id="badatz"></a>
 ## Badatz
