@@ -9,6 +9,10 @@ image:
 permalink: "/media/"
 mediaplayer: true
 ---
+## The World of Ona'ah: Deception and Harm in Business and in Interpersonal Relationships
+Mesivta of Greater Los Angeles (Calabasas, CA) // 2022
+<audio src="https://toraszeraim.org/media/Harav_Mendelson_World_of_Onaah.mp4" type="audio/mp4" controls="controls"></audio>
+
 ## Billable Hours
 Torah Media Atlanta // November 15, 2012
 <audio src="http://www.torahmediaatlanta.com/assets/Uploads/Guest/MendelsonChaim/11-15-12%20Billable%20Hours.mp3" type="audio/mp3" controls="controls"></audio>
