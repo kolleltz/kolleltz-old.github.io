@@ -16,9 +16,9 @@ permalink: "/donate/"
     <div style="text-align:center">
       <h3>PayPal & Credit Card</h3>
       <br>
-        <a href="https://www.paypal.com/us/fundraiser/charity/1338901" target="_blank" style="text-decoration: none !important; border:0px !important; outline:none; border-width: 0px; outline-width:0px; border-bottom: none;"><img src="https://toraszeraim.org/images/paypal-giving-fund.png"/></a>
-      <br>
         100% of donations made through PayPal Giving Fund are given to the registered charity without any deductions or fees to the organization. 
+      <br>
+        <a href="https://www.paypal.com/us/fundraiser/charity/1338901" target="_blank" style="text-decoration: none !important; border:0px !important; outline:none; border-width: 0px; outline-width:0px; border-bottom: none;"><img src="https://toraszeraim.org/images/paypal-giving-fund.png"/></a>
       <br><br>
         <b>If you would like to make a recurring monthly donation</b>, or if you prefer not to create a PayPal account, please donate using this button instead:<br><a href="https://www.paypal.com/chi-bin/webscr?cmd=_s-xclick&hosted_button_id=ALUB5CRQ2RCK8" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/></a>
     </div>
