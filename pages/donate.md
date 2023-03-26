@@ -20,7 +20,7 @@ permalink: "/donate/"
       <br>
         100% of donations made through PayPal Giving Fund are given to the registered charity without any deductions or fees to the organization. 
       <br><br>
-        If you prefer not to create a PayPal account, please donate using <a href="https://www.paypal.com/chi-bin/webscr?cmd=_s-xclick&hosted_button_id=ALUB5CRQ2RCK8" target="_blank">this link</a> instead (if using this link, the Kollel will incur a credit card processing fee).
+        <b>If you would like to make a recurring monthly donation</b>, or if you prefer not to create a PayPal account, please donate using this button instead:<br><a href="https://www.paypal.com/chi-bin/webscr?cmd=_s-xclick&hosted_button_id=ALUB5CRQ2RCK8" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/></a>
     </div>
   </div>
   <div class="large-6 columns">
